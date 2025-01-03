@@ -1,6 +1,6 @@
 # Boosting Dataset Distillation with the Assistance of Crucial Samples for Visual Learning
 
-This repo contains code for distilling dataset using infinite semantic augmentation (Submitted to TMM 2024). Please see our paper for more results.
+This repo contains code for distilling dataset using infinite semantic augmentation. Please see our paper for more results.
 
 <p align="middle">
 <img src="asset/cifar100.png" alt="cifar100_res32_6x6" width="32%"/>
